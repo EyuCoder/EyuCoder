@@ -23,11 +23,11 @@ Hi there, I'm **Joel**, an **Android Dev** 💻. Currently, I'm a freelanceer.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a LMS for Android<img alt="spinning globe" width="18px" src="assets/Rocket.gif" />
+- 🔭 I’m currently working on a LMS for Android<img alt="rocket" width="18px" src="assets/Rocket.gif" />
 - 🌱 I’m currently learning **UI/UX** Design
 - 👯 I’m looking to collaborate on android and kotlin projects
 - 🤔 I’m available for hire
-- 💬 Ask me about ...
+<!--- 💬 Ask me about ...-->
 - 📫 How to reach me: [here!](https://mailto:eyueldaniel0921@gmail.com)
 - ⚡ Fun fact: ...
 -->
