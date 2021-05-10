@@ -22,9 +22,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br/>
-<br/>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-[![Linkedin: Eyuel-Daniel](https://www.linkedin.com/in/eyuel-daniel/)
-[![website](https://about.me/eyuel)
-[![GitHub elysium09](https://img.shields.io/github/followers/elysium09?label=follow&style=social)](https://github.com/elysium09)
-</div>
