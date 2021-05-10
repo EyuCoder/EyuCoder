@@ -1,7 +1,7 @@
 ### Hi there, 👋 I'm [Joel!](https://about.me/eyuel)
 
 <p align="center">
-  <img src="assets/coder.gif" width="300%">
+  <img src="coder.gif" width="300%">
 </p>
 <br>
 <div align="center">
