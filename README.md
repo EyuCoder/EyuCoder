@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hi there, 👋 I'm [Joel!](https://about.me/eyuel)
 
-<!--
-**elysium09/elysium09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="assets/coder.gif" width="300%">
+</p>
+<br>
+<div align="center">
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=elysium09&label=Views&color=blue&style=plastic" alt="elysium09" /> </p>
+</div>
 
 Here are some ideas to get you started:
 
@@ -11,6 +16,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
