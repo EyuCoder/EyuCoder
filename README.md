@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 🤔 I’m available for hire
 <!--- 💬 Ask me about ...-->
 - 📫 How to reach me: [here!](https://mailto:eyueldaniel0921@gmail.com)
-- ⚡ Fun fact: ...
+<!--- ⚡ Fun fact: ...
 -->
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
