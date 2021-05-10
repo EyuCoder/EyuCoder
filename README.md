@@ -1,7 +1,7 @@
 ### Hi there <img alt="waving hand" width="27px" src="assets\Hi.gif" />, I'm [Joel!](https://about.me/eyuel)
 
 <p align="center">
-  <img align="right" src="assets\coder-unscreen.gif" width="" height="200px">
+  <img align="right" src="assets\coder-unscreen.gif" width="" height="300px">
 </p>
 <a href="https://www.linkedin.com/in/eyuel-daniel/">
   <img align="left" alt="Joel's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
