@@ -7,6 +7,9 @@
 <div align="center">
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=elysium09&label=Views&color=blue&style=plastic" alt="elysium09" /> </p>
 </div>
+<br/>
+<br/>
+
 
 Here are some ideas to get you started:
 
@@ -18,3 +21,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+<br/>
+<br/>
+
+[![Linkedin: Eyuel-Daniel](https://www.linkedin.com/in/eyuel-daniel/)
+[![website](https://about.me/eyuel)
+[![GitHub elysium09](https://img.shields.io/github/followers/elysium09?label=follow&style=social)](https://github.com/elysium09)
+</div>
