@@ -1,4 +1,4 @@
-### Hi there <img alt="waving hand" width="27px" src="assets/Hi.gif" />, I'm [Joel!](https://about.me/eyuel)
+### Hi there <img alt="waving hand" width="27px" src="assets\Hi.gif" />, I'm [Joel!](https://about.me/eyuel)
 
 <p align="center">
   <img src="coder-unscreen.gif" width="100%"height="50px">
@@ -17,15 +17,9 @@
 <br /><p>
 Hi there, I'm **Joel**, an **Android Dev** 💻. Currently, I'm a freelanceer.
 </p>
-<br />
-
-<br>
 <div align="center">
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=elysium09&label=Views&color=blue&style=plastic" alt="elysium09" /> </p>
 </div>
-<br/>
-<br/>
-
 
 Here are some ideas to get you started:
 
