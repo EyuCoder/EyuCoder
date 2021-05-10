@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 -->
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
-**Languages and Tools:**  
+<div align="center">
+***Languages and Tools:*** <br/>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -47,10 +47,12 @@ Here are some ideas to get you started:
 <a href="https://github.com/elysium09">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=elysium09&&show_icons=true&count_private=true&title_color=bd93f9&icon_color=0E86D4&text_color=daf7dc&bg_color=151515" alt="Joel's github stats"/>
 </a>
+</div>
+<!--
 <a href="https://github.com/elysium09">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elysium09&hide=php&theme=algolia" />
 </a>
 
-<!--<div align="center">
+<div align="center">
 ### Show some ❤️ by liking your fave repo of mine!
-</div>-->
+</div> -->
