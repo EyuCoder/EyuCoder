@@ -21,8 +21,6 @@ Hi there, I'm **Joel**, an **Android Dev** 💻. Currently, I'm a freelanceer.
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=elysium09&label=Views&color=blue&style=plastic" alt="elysium09" /> </p>
 </div>
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a LMS for Android<img alt="rocket" width="18px" src="assets/Rocket.gif" />
 - 🌱 I’m currently learning **UI/UX** Design
 - 👯 I’m looking to collaborate on android and kotlin projects
