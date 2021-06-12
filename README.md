@@ -15,7 +15,7 @@
 
 
 <br /><p>
-Hi there, I'm **Joel**, an **Android Dev** 💻. Currently, I'm a freelanceer.
+Hi there, I'm **Joel**, an **Android Dev** 💻. Currently, Looking for remote opportunity.
 </p>
 <div align="center">
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=elysium09&label=Views&color=blue&style=plastic" alt="elysium09" /> </p>
@@ -43,13 +43,18 @@ Hi there, I'm **Joel**, an **Android Dev** 💻. Currently, I'm a freelanceer.
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<a href="https://github.com/elysium09">
+<!--<a href="https://github.com/elysium09">
 <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=elysium09&&show_icons=true&count_private=true&title_color=bd93f9&icon_color=0E86D4&text_color=daf7dc&bg_color=151515" alt="Joel's github stats"/>
+</a>-->
+
+<a href="https://github.com/elysium09">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elysium09" alt="JOEL"/>
 </a>
 
 <a href="https://github.com/elysium09">
   <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elysium09&hide=php&theme=algolia" />
 </a>
+
 <!--
 <div align="center">
 ### Show some ❤️ by liking your fave repo of mine!
