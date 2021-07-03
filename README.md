@@ -15,7 +15,7 @@
 
 
 <br />
-<samp>Hi there, I'm **Joel**, an **Android Dev** 💻. Currently, Looking for remote opportunity.</samp>
+<p>Hi there, I'm **Joel**, an **Android Dev** 💻. Currently, Looking for remote opportunity.</p>
 <div align="center">
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=elysium09&label=Views&color=blue&style=plastic" alt="elysium09" /> </p>
 </div>
