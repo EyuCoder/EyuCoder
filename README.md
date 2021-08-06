@@ -35,6 +35,14 @@ Hi there, I'm **Joel**, an **Android Dev** 💻. Currently, Looking for remote o
 
 ***Languages and Tools:***
 
+![Android](https://img.shields.io/badge/-android-000000?&style=for-the-badge&logo=android)
+![Kotlin](https://img.shields.io/badge/-kotlin-000000?&style=for-the-badge&logo=kotlin)
+![Java](https://img.shields.io/badge/-Java-000000?&style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=yellow)
+![Firebase](https://img.shields.io/badge/-Firebase-4c8bf5?&style=for-the-badge&&logo=firebase&logoColor=ffca28)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)
+<!--
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -43,6 +51,7 @@ Hi there, I'm **Joel**, an **Android Dev** 💻. Currently, Looking for remote o
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+  -->
 
 <!--<a href="https://github.com/elysium09">
 <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=elysium09&&show_icons=true&count_private=true&title_color=bd93f9&icon_color=0E86D4&text_color=daf7dc&bg_color=151515" alt="Joel's github stats"/>
