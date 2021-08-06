@@ -27,7 +27,7 @@ Hi there, I'm **Joel**, an **Android Dev** 💻. Currently, Looking for remote o
 - 👯 I’m looking to collaborate on android and kotlin projects
 - 🤔 I’m available for hire
 <!--- 💬 Ask me about ...-->
-- 📫 How to reach me: [here!](https://mailto:eyueldaniel0921@gmail.com)
+- 📫 How to reach me: [here!](mailto:eyueldaniel0921@gmail.com)
 <!--- ⚡ Fun fact: ...
 -->
 
