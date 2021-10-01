@@ -9,7 +9,7 @@
 <a href="https://github.com/elysium09">
   <img align="left" alt="Joel's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 </a>
-<a href="https://www.instagram.com/_scxr/">
+<a href="https://www.instagram.com/_sczr/">
   <img align="left" alt="Joel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
