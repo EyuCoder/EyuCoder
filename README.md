@@ -1,4 +1,4 @@
-### Hi there <img alt="waving hand" width="27px" src="assets\Hi.gif" />, I'm [Joel!](https://about.me/eyuel)
+### Hi there <img alt="waving hand" width="27px" src="assets\Hi.gif" />, I'm [Joel!](https://www.linkedin.com/in/eyuel-daniel/)
 
 <p align="center">
   <img align="right" src="assets\coder-unscreen.gif" width="" height="300px">
