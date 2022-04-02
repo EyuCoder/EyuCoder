@@ -3,7 +3,7 @@
 <!-- <p align="center">
   <img align="right" src="assets\coder-unscreen.gif" width="" height="300px">
 </p> -->
-<div align="center">
+<!-- <div align="center">
 <a href="https://www.linkedin.com/in/eyuel-daniel/">
   <img align="left" alt="Joel's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -13,12 +13,9 @@
 <a href="https://www.instagram.com/_sczr/">
   <img align="left" alt="Joel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-</div>
+</div> -->
 
-<br/>
-<p>  
 Hi there, I'm **Joel**, an **Android Dev** 💻. Currently, Looking for remote opportunity.
-</p>
 
   <img src="https://komarev.com/ghpvc/?username=elysium09&label=Views&color=blue&style=plastic" alt="elysium09" />
 
