@@ -1,8 +1,8 @@
 ### Hi there <img alt="waving hand" width="27px" src="assets\Hi.gif" />, I'm [Joel!](https://www.linkedin.com/in/eyuel-daniel/)
 
-<p align="center">
+<!-- <p align="center">
   <img align="right" src="assets\coder-unscreen.gif" width="" height="300px">
-</p>
+</p> -->
 <a href="https://www.linkedin.com/in/eyuel-daniel/">
   <img align="left" alt="Joel's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -19,10 +19,9 @@
 Hi there, I'm **Joel**, an **Android Dev** 💻. Currently, Looking for remote opportunity.
 
 <div align="center">
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=elysium09&label=Views&color=blue&style=plastic" alt="elysium09" /> </p>
+<img src="https://komarev.com/ghpvc/?username=elysium09&label=Views&color=blue&style=plastic" alt="elysium09" />
 </div>
 
-<!-- - 🔭 I’m currently working on a LMS for Android<img alt="rocket" width="18px" src="assets/Rocket.gif" /> -->
 - 🌱 I’m currently learning **MERN STACK**
 - 👯 I’m looking to collaborate on android and kotlin projects
 - 🤔 I’m available for hire
@@ -42,16 +41,17 @@ Hi there, I'm **Joel**, an **Android Dev** 💻. Currently, Looking for remote o
 ![Firebase](https://img.shields.io/badge/-Firebase-4c8bf5?&style=for-the-badge&&logo=firebase&logoColor=ffca28)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)
-<!--
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-  -->
+![HTML](https://img.shields.io/badge/-html5-E34F26?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?&style=for-the-badge&logo=bootstrap&logoColor=white)
+![Taiwind](https://img.shields.io/badge/-Tailwind-38B2AC?&style=for-the-badge&logo=tailwind%20css&logoColor=white)
+![JS](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB)
+<!--![Node.js](https://img.shields.io/badge/-Node.js-black?&style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/-Express-grey?&style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-white?&style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Jest](https://img.shields.io/badge/-Jest-C21325?&style=for-the-badge&logo=jest&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?&style=for-the-badge&logo=graphql&logoColor=E10098)-->
 
 <!--<a href="https://github.com/elysium09">
 <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=elysium09&&show_icons=true&count_private=true&title_color=bd93f9&icon_color=0E86D4&text_color=daf7dc&bg_color=151515" alt="Joel's github stats"/>
