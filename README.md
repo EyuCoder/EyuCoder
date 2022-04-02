@@ -13,7 +13,6 @@
   <img align="left" alt="Joel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<samp>
 <br/>
   
 Hi there, I'm **Joel**, an **Android Dev** 💻. Currently, Looking for remote opportunity.
