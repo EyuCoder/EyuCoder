@@ -1,4 +1,4 @@
-### Hi there <img alt="waving hand" width="27px" src="assets\Hi.gif" />, I'm [Eyuel!](https://www.linkedin.com/in/eyuel-daniel/)
+<!-- ### Hi there <img alt="waving hand" width="27px" src="assets\Hi.gif" />, I'm [Eyuel!](https://www.linkedin.com/in/eyuel-daniel/) -->
 
 <!-- <p align="center">
   <img align="right" src="assets\coder-unscreen.gif" width="" height="300px">
@@ -17,7 +17,7 @@
 
 <!-- Hi there, I'm **Eyuel**, an **Android Dev** 💻. Currently, Looking for remote opportunity. -->
 
-<!--   <img src="https://komarev.com/ghpvc/?username=elysium09&label=Views&color=blue&style=plastic" alt="elysium09" /> -->
+  <img src="https://komarev.com/ghpvc/?username=elysium09&label=Views&color=blue&style=plastic" alt="elysium09" />
 
 - 🌱 I’m currently learning **MERN STACK**
 <!-- - 👯 I’m looking to collaborate on android and kotlin projects -->
