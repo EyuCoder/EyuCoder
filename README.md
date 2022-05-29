@@ -15,12 +15,12 @@
 </a>
 </div> -->
 
-Hi there, I'm **Eyuel**, an **Android Dev** 💻. Currently, Looking for remote opportunity.
+<!-- Hi there, I'm **Eyuel**, an **Android Dev** 💻. Currently, Looking for remote opportunity. -->
 
-  <img src="https://komarev.com/ghpvc/?username=elysium09&label=Views&color=blue&style=plastic" alt="elysium09" />
+<!--   <img src="https://komarev.com/ghpvc/?username=elysium09&label=Views&color=blue&style=plastic" alt="elysium09" /> -->
 
 - 🌱 I’m currently learning **MERN STACK**
-- 👯 I’m looking to collaborate on android and kotlin projects
+<!-- - 👯 I’m looking to collaborate on android and kotlin projects -->
 - 🤔 I’m available for hire
 <!--- 💬 Ask me about ...-->
 - 📫 How to reach me: [here!](mailto:eyueldaniel0921@gmail.com)
