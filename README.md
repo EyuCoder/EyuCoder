@@ -1,31 +1,13 @@
 <!-- ### Hi there <img alt="waving hand" width="27px" src="assets\Hi.gif" />, I'm [Eyuel!](https://www.linkedin.com/in/eyuel-daniel/) -->
 
-<!-- <p align="center">
-  <img align="right" src="assets\coder-unscreen.gif" width="" height="300px">
-</p> -->
-<!-- <div align="center">
-<a href="https://www.linkedin.com/in/eyuel-daniel/">
-  <img align="left" alt="Joel's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/elysium09">
-  <img align="left" alt="Joel's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/_sczr/">
-  <img align="left" alt="Joel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-</div> -->
 
-<!-- Hi there, I'm **Eyuel**, an **Android Dev** 💻. Currently, Looking for remote opportunity. -->
 
   <img src="https://komarev.com/ghpvc/?username=elysium09&label=Views&color=blue&style=plastic" alt="elysium09" />
 
 - 🌱 I’m currently learning **MERN STACK**
-<!-- - 👯 I’m looking to collaborate on android and kotlin projects -->
 - 🤔 I’m available for hire
-<!--- 💬 Ask me about ...-->
 - 📫 How to reach me: [here!](mailto:eyueldaniel0921@gmail.com)
-<!--- ⚡ Fun fact: ...
--->
+
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
@@ -50,21 +32,5 @@
 ![Jest](https://img.shields.io/badge/-Jest-C21325?&style=for-the-badge&logo=jest&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?&style=for-the-badge&logo=graphql&logoColor=E10098)-->
 
-<!--<a href="https://github.com/elysium09">
-<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=elysium09&&show_icons=true&count_private=true&title_color=bd93f9&icon_color=0E86D4&text_color=daf7dc&bg_color=151515" alt="Joel's github stats"/>
-</a>
-
-<a href="https://github.com/elysium09">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elysium09" alt="JOEL"/>
-</a>
-
-<a href="https://github.com/elysium09">
-  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elysium09&hide=php&theme=algolia" />
-</a>-->
-
-<!--
-<div align="center">
-### Show some ❤️ by liking your fave repo of mine!
-</div> -->
 
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=eyucoder&theme=darkhub&no-frame=true&column=8"/>
