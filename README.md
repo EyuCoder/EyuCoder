@@ -66,3 +66,6 @@
 <div align="center">
 ### Show some ❤️ by liking your fave repo of mine!
 </div> -->
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=eyucoder&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
