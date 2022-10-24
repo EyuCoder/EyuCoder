@@ -1,5 +1,4 @@
-<!-- ### Hi there <img alt="waving hand" width="27px" src="assets\Hi.gif" />, I'm [Eyuel!](https://www.linkedin.com/in/eyuel-daniel/) -->
-
+### Hi there <img alt="waving hand" width="27px" src="assets\Hi.gif" />, I'm [Eyuel!](https://www.linkedin.com/in/eyuel-daniel/)
 
 
   <img src="https://komarev.com/ghpvc/?username=elysium09&label=Views&color=blue&style=plastic" alt="elysium09" />
