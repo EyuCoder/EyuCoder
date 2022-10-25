@@ -25,11 +25,8 @@
 ![Taiwind](https://img.shields.io/badge/-Tailwind-38B2AC?&style=for-the-badge&logo=tailwind%20css&logoColor=white)
 ![JS](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB)
-<!--![Node.js](https://img.shields.io/badge/-Node.js-black?&style=for-the-badge&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/-Express-grey?&style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-white?&style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?&style=for-the-badge&logo=jest&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-black?&style=for-the-badge&logo=graphql&logoColor=E10098)-->
 
 
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=eyucoder&theme=darkhub&no-frame=true&column=8"/>
