@@ -29,4 +29,4 @@
 ![Jest](https://img.shields.io/badge/-Jest-C21325?&style=for-the-badge&logo=jest&logoColor=white)
 
 
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=eyucoder&theme=darkhub&no-frame=true&column=8"/>
+<!--<img width=800 src="https://github-profile-trophy.vercel.app/?username=eyucoder&theme=darkhub&no-frame=true&column=8"/>-->
