@@ -1,11 +1,14 @@
+
+<img width="200px" align="right" src="https://freight.cargo.site/t/original/i/5373f99b065b576539167e65918b92ebd6b3b9ddbb97c22457af1262f3c74a44/source.gif"/>
+
 ### Hi there <img alt="waving hand" width="27px" src="assets\Hi.gif" />, I'm [Eyuel!](https://www.linkedin.com/in/eyuel-daniel/)
 
 
   <img src="https://komarev.com/ghpvc/?username=elysium09&label=PROFILE+VIEWS&color=blue&style=for-the-badge" alt="EyuCoder" />
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **MERN STACK**                                
 - 🤔 I’m available for hire
-- 📫 How to reach me: [here!](mailto:eyueldaniel0921@gmail.com)
+- 📫 How to reach me: [here!](mailto:eyueldaniel0921@gmail.com)                  
 
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
