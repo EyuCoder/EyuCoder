@@ -5,6 +5,7 @@
 
 
   <img src="https://komarev.com/ghpvc/?username=elysium09&label=PROFILE+VIEWS&color=blue&style=for-the-badge" alt="EyuCoder" />
+  <img title="Followers" src="https://img.shields.io/github/followers/eyucoder?color=blue&style=flat-square" alt="EyuCoder">
 
 - 🌱 I’m currently learning **MERN STACK**                                
 - 🤔 I’m available for hire
