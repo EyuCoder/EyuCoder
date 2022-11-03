@@ -32,5 +32,10 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-white?&style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?&style=for-the-badge&logo=jest&logoColor=white)
 
-
-<!--<img width=800 src="https://github-profile-trophy.vercel.app/?username=eyucoder&theme=darkhub&no-frame=true&column=8"/>-->
+<!--  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyucoder&theme=dark&hide_border=true"/>
+  
+  <a href="https://github.com/eyucoder">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eyucoder&hide=none&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyucoder&layout=compact&langs_count=7&theme=tokyonight"/>
+  
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=eyucoder&theme=darkhub&no-frame=true&column=8"/>-->
