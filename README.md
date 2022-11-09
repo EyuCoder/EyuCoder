@@ -1,5 +1,5 @@
 
-<img width="200px" align="right" src="https://freight.cargo.site/t/original/i/5373f99b065b576539167e65918b92ebd6b3b9ddbb97c22457af1262f3c74a44/source.gif"/>
+<img width="300px" align="right" src="https://media3.giphy.com/media/6vj5quVNRhoQw/giphy.gif?cid=ecf05e47pdsfw7onmqbup4bkywcbxv3xgkm2soa84arkq65s&rid=giphy.gif"/>
 
 ### Hi there <img alt="waving hand" width="27px" src="assets\Hi.gif" />, I'm [Eyuel!](https://www.linkedin.com/in/eyuel-daniel/)
 
