@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**                                
 - 🤔 I’m available for hire
-- 📫 How to reach me: [here!](mailto:eyueldaniel0921@gmail.com)                  
+- 📫 How to reach me: [Instagram](https://instagram.com/_sczr), [LinkedIn](https://linkedin.com/in/eyuel-daniel), [Email](mailto:eyueldaniel0921@gmail.com)                  
 
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
@@ -32,7 +32,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-white?&style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?&style=for-the-badge&logo=jest&logoColor=white)
 
-<!--  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyucoder&theme=dark&hide_border=true"/>
+<!--<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyucoder&theme=dark&hide_border=true"/>
   
   <a href="https://github.com/eyucoder">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eyucoder&hide=none&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
