@@ -25,15 +25,23 @@
   <img src="https://skillicons.dev/icons?i=firebase" width="50px" alt="firebase icon"/>
   <img src="https://skillicons.dev/icons?i=mysql" width="50px" alt="MySQL icon"/>
   <img src="https://skillicons.dev/icons?i=git" width="50px" alt="git icon"/>
+  <img src="https://skillicons.dev/icons?i=github" width="50px" alt="github icon"/>
   <img src="https://skillicons.dev/icons?i=bash" width="50px" alt="bash icon"/>
   <img src="https://skillicons.dev/icons?i=html" width="50px" alt="html5 icon"/>
   <img src="https://skillicons.dev/icons?i=css" width="50px" alt="css3 icon"/>
+  <img src="https://skillicons.dev/icons?i=sass" width="50px" alt="sass icon"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" width="50px" alt="bootstrap icon"/>
   <img src="https://skillicons.dev/icons?i=tailwind" width="50px" alt="tailwind icon"/>
   <img src="https://skillicons.dev/icons?i=javascript" width="50px" alt="javascript icon"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50px" alt="nodejs icon"/>
   <img src="https://skillicons.dev/icons?i=react" width="50px" alt="react icon"/>
   <img src="https://skillicons.dev/icons?i=mongodb" width="50px" alt="mongodb icon"/>
-  <img src="https://skillicons.dev/icons?i=jest" width="50px" alt="jest icon"/>
+  <img src="https://skillicons.dev/icons?i=jest" width="50px" alt="jest icon"/>    
+  <img src="https://skillicons.dev/icons?i=atom" width="50px" alt="atom icon"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="50px" alt="vscode icon"/>
+  <img src="https://skillicons.dev/icons?i=idea" width="50px" alt="idea icon"/>
+  <img src="https://skillicons.dev/icons?i=aws" width="50px" alt="aws icon"/>
+  <img src="https://skillicons.dev/icons?i=gcp" width="50px" alt="gcp icon"/>
 </div>
 
 <!--<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyucoder&theme=dark&hide_border=true"/>
