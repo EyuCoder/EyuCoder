@@ -21,7 +21,9 @@
   <img src="https://skillicons.dev/icons?i=androidstudio" width="50px" alt="android icon"/>
   <img src="https://skillicons.dev/icons?i=kotlin" width="50px" alt="kotlin icon"/>
   <img src="https://skillicons.dev/icons?i=java" width="50px" alt="java icon"/>
+  <img src="https://skillicons.dev/icons?i=gradle" width="50px" alt="gradle icon"/>
   <img src="https://skillicons.dev/icons?i=python" width="50px" alt="python icon"/>
+  <img src="https://skillicons.dev/icons?i=flask" width="50px" alt="flask icon"/>
   <img src="https://skillicons.dev/icons?i=firebase" width="50px" alt="firebase icon"/>
   <img src="https://skillicons.dev/icons?i=mysql" width="50px" alt="MySQL icon"/>
   <img src="https://skillicons.dev/icons?i=git" width="50px" alt="git icon"/>
@@ -35,11 +37,14 @@
   <img src="https://skillicons.dev/icons?i=javascript" width="50px" alt="javascript icon"/>
   <img src="https://skillicons.dev/icons?i=nodejs" width="50px" alt="nodejs icon"/>
   <img src="https://skillicons.dev/icons?i=react" width="50px" alt="react icon"/>
+  <img src="https://skillicons.dev/icons?i=d3" width="50px" alt="d3 icon"/>
   <img src="https://skillicons.dev/icons?i=mongodb" width="50px" alt="mongodb icon"/>
-  <img src="https://skillicons.dev/icons?i=jest" width="50px" alt="jest icon"/>    
+  <img src="https://skillicons.dev/icons?i=jest" width="50px" alt="jest icon"/>
+  <img src="https://skillicons.dev/icons?i=neovim" width="50px" alt="neovim icon"/>
   <img src="https://skillicons.dev/icons?i=atom" width="50px" alt="atom icon"/>
   <img src="https://skillicons.dev/icons?i=vscode" width="50px" alt="vscode icon"/>
   <img src="https://skillicons.dev/icons?i=idea" width="50px" alt="idea icon"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="50px" alt="linux icon"/>
   <img src="https://skillicons.dev/icons?i=aws" width="50px" alt="aws icon"/>
   <img src="https://skillicons.dev/icons?i=gcp" width="50px" alt="gcp icon"/>
 </div>
