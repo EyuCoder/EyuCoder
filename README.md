@@ -9,28 +9,32 @@
 
 - 🌱 I’m currently learning **MERN STACK**                                
 - 🤔 I’m available for hire
+- 💬 Ask me about anything related to Android
 - 📫 How to reach me: [Instagram](https://instagram.com/_sczr), [LinkedIn](https://linkedin.com/in/eyuel-daniel), [Email](mailto:eyueldaniel0921@gmail.com)                  
 
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-***Languages and Tools:***
+***Languages and Tools:*** 
 
-![Android](https://img.shields.io/badge/-android-000000?&style=for-the-badge&logo=android)
-![Kotlin](https://img.shields.io/badge/-kotlin-000000?&style=for-the-badge&logo=kotlin)
-![Java](https://img.shields.io/badge/-Java-000000?&style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=yellow)
-![Firebase](https://img.shields.io/badge/-Firebase-4c8bf5?&style=for-the-badge&&logo=firebase&logoColor=ffca28)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)
-![HTML](https://img.shields.io/badge/-html5-E34F26?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?&style=for-the-badge&logo=bootstrap&logoColor=white)
-![Taiwind](https://img.shields.io/badge/-Tailwind-38B2AC?&style=for-the-badge&logo=tailwind%20css&logoColor=white)
-![JS](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/-MongoDB-white?&style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Jest](https://img.shields.io/badge/-Jest-C21325?&style=for-the-badge&logo=jest&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio" width="50px" alt="android icon"/>
+  <img src="https://skillicons.dev/icons?i=kotlin" width="50px" alt="kotlin icon"/>
+  <img src="https://skillicons.dev/icons?i=java" width="50px" alt="java icon"/>
+  <img src="https://skillicons.dev/icons?i=python" width="50px" alt="python icon"/>
+  <img src="https://skillicons.dev/icons?i=firebase" width="50px" alt="firebase icon"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="50px" alt="MySQL icon"/>
+  <img src="https://skillicons.dev/icons?i=git" width="50px" alt="git icon"/>
+  <img src="https://skillicons.dev/icons?i=bash" width="50px" alt="bash icon"/>
+  <img src="https://skillicons.dev/icons?i=html" width="50px" alt="html5 icon"/>
+  <img src="https://skillicons.dev/icons?i=css" width="50px" alt="css3 icon"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="50px" alt="bootstrap icon"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50px" alt="tailwind icon"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="50px" alt="javascript icon"/>
+  <img src="https://skillicons.dev/icons?i=react" width="50px" alt="react icon"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50px" alt="mongodb icon"/>
+  <img src="https://skillicons.dev/icons?i=jest" width="50px" alt="jest icon"/>
+</div>
 
 <!--<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyucoder&theme=dark&hide_border=true"/>
   
