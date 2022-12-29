@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=elysium09&label=PROFILE+VIEWS&color=blue&style=for-the-badge" alt="EyuCoder" />
   <img title="Followers" src="https://img.shields.io/github/followers/eyucoder?color=blue&style=flat-square" alt="EyuCoder">
 
-- 🌱 I’m currently learning **MERN STACK**                                
+- 🌱 I’m currently working on **multiple projects**                               
 - 🤔 I’m available for hire
 - 💬 Ask me about anything related to Android
 - 📫 How to reach me: [Instagram](https://instagram.com/_sczr), [LinkedIn](https://linkedin.com/in/eyuel-daniel), [Email](mailto:eyueldaniel0921@gmail.com)                  
