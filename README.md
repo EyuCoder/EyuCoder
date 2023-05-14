@@ -10,7 +10,7 @@
 - 🌱 I’m currently working on **multiple projects**                               
 - 😎 I’m available for hire
 - 💬 Ask me about anything related to Android
-- 📫 How to reach me: [Telegram](https://t.me/jo_xl), [LinkedIn](https://linkedin.com/in/eyuel-daniel), [Email](mailto:eyueldaniel0921@gmail.com)                  
+- 📫 How to reach me: [Twitter](https://twitter.com/eyucoder), [LinkedIn](https://linkedin.com/in/eyuel-daniel), [Email](mailto:eyueldaniel0921@gmail.com)                  
 
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
