@@ -1,11 +1,9 @@
-
-<img width="300px" align="right" src="https://media3.giphy.com/media/6vj5quVNRhoQw/giphy.gif?cid=ecf05e47pdsfw7onmqbup4bkywcbxv3xgkm2soa84arkq65s&rid=giphy.gif"/>
-
 ### Hi there <img alt="waving hand" width="27px" src="assets\Hi.gif" />, I'm [Eyuel!](https://www.linkedin.com/in/eyuel-daniel/)
 
-
+<div>
   <img src="https://komarev.com/ghpvc/?username=elysium09&label=PROFILE+VIEWS&color=blue&style=for-the-badge" alt="EyuCoder" />
-  <img title="Followers" src="https://img.shields.io/github/followers/eyucoder?color=blue&style=flat-square" alt="EyuCoder">
+  <img title="Followers" src="https://img.shields.io/github/followers/eyucoder?color=blue&style=for-the-badge" alt="EyuCoder">
+</div>
 
 - 🌱 I’m currently working on **multiple projects**
 - 💬 Ask me about anything related to Android
