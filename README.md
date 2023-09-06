@@ -1,5 +1,5 @@
 ### Hi there <img alt="waving hand" width="27px" src="assets\Hi.gif" />, I'm [Eyuel!](https://www.linkedin.com/in/eyuel-daniel/)
-
+<!--
 <div>
   <img src="https://komarev.com/ghpvc/?username=elysium09&label=PROFILE+VIEWS&color=blue&style=for-the-badge" alt="EyuCoder" />
   <img title="Followers" src="https://img.shields.io/github/followers/eyucoder?color=blue&style=for-the-badge" alt="EyuCoder">
@@ -44,7 +44,7 @@
   <img src="https://skillicons.dev/icons?i=linux" width="40px" alt="linux icon"/>
   <img src="https://skillicons.dev/icons?i=aws" width="40px" alt="aws icon"/>
   <img src="https://skillicons.dev/icons?i=gcp" width="40px" alt="gcp icon"/>
-</div>
+</div>-->
 
 <!--<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyucoder&theme=dark&hide_border=true"/>
   
