@@ -1,4 +1,4 @@
-### Hi there <img alt="waving hand" width="27px" src="assets\Hi.gif" />, I'm [Eyuel!](https://www.linkedin.com/in/eyuel-daniel/)
+### Hi there 👋, I'm ![Eyuel!](https://www.linkedin.com/in/eyuel-daniel/)
 <!--
 <div>
   <img src="https://komarev.com/ghpvc/?username=elysium09&label=PROFILE+VIEWS&color=blue&style=for-the-badge" alt="EyuCoder" />
